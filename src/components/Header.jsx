@@ -24,7 +24,7 @@ export default function Header() {
       }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
           <img
-            src="../src/images/Media.jpg"
+            src="/Media.jpg"
             alt="Profile"
             style={{
               width: '60px',
