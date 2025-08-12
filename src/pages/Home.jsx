@@ -3,7 +3,7 @@ export default function Home() {
     <div className="container">
       <div className="about-section">
         <img 
-          src="../../../public/Media.jpg" 
+          src="../src/images/Media.jpg"
           alt="Your Name" 
           className="profile-image"
         />
